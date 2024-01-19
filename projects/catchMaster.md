@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://imgur.com/a/98Et9Ak
+image: img width="1228" alt="Screen Shot 2024-01-18 at 9 07 12 PM" 
 title: "CatchMaster"
 date: 2023
 published: true
