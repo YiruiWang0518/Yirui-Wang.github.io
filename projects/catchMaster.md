@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img width="1228" alt="Screen Shot 2024-01-18 at 9 07 12 PM" 
+image: src="https://github.com/YiruiWang0518/YiruiWang0518.github.io/assets/142943615/ee9ce196-6c72-4e32-9b97-19c6cb5690d5">
 title: "CatchMaster"
 date: 2023
 published: true
