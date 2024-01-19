@@ -13,47 +13,61 @@ summary: "A text-based Java program that simulates a realistic fishing experienc
 
 <img class="img-fluid" src="../img/catchMaster.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+##About the Project
+I did this project with Jarod and YueMing last semester for ICS 211. Our project was a computer game called Catch Masters. It's a simple game where you pretend to fish. The game shows different kinds of fish and teaches players about fishing rules like what size of fish you can keep. We made the game to be fun but also to help people learn about fishing in a way that's good for nature.
 
-To give you a flavor of the game, here is an excerpt from one run:
+##My Role
+I worked a lot on this game. My main job was to write the code that made the game work. I decided how the game should play, like how you catch fish and what happens if you catch a fish that's too small. I also looked up real fishing rules to make our game realistic. I did most of the programming and made sure everything in the game worked right.
 
-<hr>
+##What I Learned
+Making this game taught me a lot. I learned more about how to write good computer code, especially in Java. I also learned how games can help people learn new things, like fishing rules. Working on this project showed me how to take a big idea and make it into a real game that people can play. It was really fun to see our game come to life and know that I helped make it.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+To give you a flavor of the game, here is an excerpt from part of one run:
+Month: 1
+Player 1, it is your turn for month 1!
+Choose an action:
+1. Cast out for a fish
+2. View fishing rules
+3. View sack of fish
+4. Throw back a fish in the sack
+player chose: 1
+Choose your catch method (pole, net, spear, trap, throw net):
+pole
+You have caught a Uhu!
+Name: Uhu
+English name: Parrotfish
+Scientific name: Scarus psittacus
+Length: 32.636377852091854
+Weight: 65.27275570418371
+Body color: gray
+Fin color: reddish gray
+Sex: none
+Do you want to keep this fish? (yes/no)
+yes
+Fish added to your sack.
+Choose an action:
+1. Cast out for a fish
+2. View fishing rules
+3. View sack of fish
+4. Throw back a fish in the sack
+player chose: 2
+Fishing Rules:
+1. Pua_ama Family: Legal size is 11 inches and above. Season: April - November.
+2. Ohua Family: Legal size is 12 inches and above. Season: Always open.
+3. Oama Family: No minimum legal size. Season: Always open. Bag limit: 50.
+4. MoiLi_i Family: Legal size is 11 inches and above. Season: Sept - May. Bag limit: 15
+Choose an action:
+1. Cast out for a fish
+2. View fishing rules
+3. View sack of fish
+4. Throw back a fish in the sack
+player chose: 3
+Fish in your sack:
+1. Name: Uhu
+English name: Parrotfish
+Scientific name: Scarus psittacus
+Length: 32.636377852091854
+Weight: 65.27275570418371
+Body color: gray
+Fin color: reddish gray
+Sex: none
