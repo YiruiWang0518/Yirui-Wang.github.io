@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: https://imgur.com/a/98Et9Ak
+title: "CatchMaster"
+date: 2023
 published: true
 labels:
-  - Lisp
+  - Software Development
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A text-based Java program that simulates a realistic fishing experience."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
