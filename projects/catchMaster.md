@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/YiruiWang0518/YiruiWang0518.github.io/blob/main/img/catchMaster.png
+image: img/catchMaster.png
 title: "CatchMaster"
 date: 2023
 published: true
