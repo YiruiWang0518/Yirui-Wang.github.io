@@ -35,6 +35,7 @@ player chose: 1
 
 Choose your catch method (pole, net, spear, trap, throw net):
 pole
+
 You have caught a Uhu!
 Name: Uhu
 English name: Parrotfish
