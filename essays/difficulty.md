@@ -1,15 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Catch Master"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-01-18
+published: true
 labels:
-  - Engineering
+  - Java
+  - Text-Based
+  - Game
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img class="img-fluid" src="../img/catchMaster.png">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
