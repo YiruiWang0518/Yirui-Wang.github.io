@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/questions.png">
+
 ## Introduction:
 Exploring effective communication in software engineering, this essay focuses on Eric Raymond's ["How to Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html) and its practical application in StackOverflow. It aims to dissect the outcomes of smart versus not smart questioning practices, emphasizing the vital role they play in collaborative problem-solving.
 
