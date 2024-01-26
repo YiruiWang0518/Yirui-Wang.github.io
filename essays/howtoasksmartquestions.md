@@ -12,7 +12,7 @@ labels:
 ---
 
 ## Introduction:
-Exploring effective communication in software engineering, this essay focuses on Eric Raymond's "How to Ask Questions The Smart Way" and its practical application in StackOverflow. It aims to dissect the outcomes of smart versus not smart questioning practices, emphasizing the vital role they play in collaborative problem-solving.
+Exploring effective communication in software engineering, this essay focuses on Eric Raymond's ["How to Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html) and its practical application in StackOverflow. It aims to dissect the outcomes of smart versus not smart questioning practices, emphasizing the vital role they play in collaborative problem-solving.
 
 ## Smart Questioning: A Case Study:
 A prime example of a smart question on StackOverflow revolves around the query, ["Why is processing a sorted array faster than processing an unsorted array?"](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) This question adeptly demonstrates Raymond's principles. The developer presents the issue with comprehensive context, offering code snippets in both C++ and Java to illustrate the problem. This level of detail not only showcases the developer's own efforts in trying to understand the issue but also provides ample information for the community to offer insightful and precise answers.
