@@ -9,6 +9,8 @@ labels:
   - Learning JavaScript
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/JavaScript.png">
+
 ## Introduction:
 JavaScript stands out in the world of programming for its flexibility and wide use. My recent experience with learning JavaScript has been full of new discoveries and challenges. As someone with almost no background in programming, learning JavaScript and its latest features, like ES6, has given me a new view of web development. I learned a lot of new things that I didn't know before.
 
