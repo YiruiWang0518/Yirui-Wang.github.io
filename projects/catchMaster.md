@@ -14,7 +14,7 @@ summary: "A text-based Java program that simulates a realistic fishing experienc
 <img class="img-fluid" src="../img/catchMaster.png">
 
 ## About the Project:
-I did this project with Jarod and YueMing last semester for ICS 211. Our project was a computer game called Catch Masters. It's a simple game where you pretend to fish. The game shows different kinds of fish and teaches players about fishing rules like what size of fish you can keep. We made the game to be fun but also to help people learn about fishing in a way that's good for nature.
+I did this project with Jarod and YueMing last semester for ICS 211. Our project was a computer game called Catch Masters. It's a simple game where you pretend to fish. The game shows different kinds of fish and teaches players about fishing rules like what size of fish you can keep. We made the game to be fun but also to help people learn about fishing in a way that's good for nature. Set in a dynamic virtual environment, the game challenges players to think and act like real anglers.
 
 ## My Role:
 I worked a lot on this game. My main job was to write the code that made the game work. I decided how the game should play, like how you catch fish and what happens if you catch a fish that's too small. I also looked up real fishing rules to make our game realistic. I did most of the programming and made sure everything in the game worked right.
