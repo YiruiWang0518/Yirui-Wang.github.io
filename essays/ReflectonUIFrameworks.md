@@ -10,7 +10,7 @@ labels:
   - Web Design
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/buildwebsite.png">
 
 ## Introduction to UI Framework
 Imagine you are building a house of your own. You can make each brick yourself, mixing cement to carefully sculpt your house, or you can use prefabricated materials, ready for assembly. This is the nature of UI frameworks like Bootstrap. They are pre-made materials for web design that provide a standardized set of building blocks for creating websites and web applications. But why choose these frameworks when you can make a website from scratch using raw HTML and CSS?
