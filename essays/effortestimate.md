@@ -6,9 +6,8 @@ title: "Experience in Effort Estimation and Tracking"
 date: 2024-05-10
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Effort Estimation
+  - Time Tracking
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/time.png">
